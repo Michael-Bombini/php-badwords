@@ -21,4 +21,6 @@ echo "<br>";
 echo "Testo da censurare:" . "  " . $daCensurare;
 echo "<br>";
 echo "Testo censurato " . " " . $testoCensurato;
+echo "<br>";
+echo "Lunghezza testo censurato : " . strlen($testoCensurato);
 ?>
